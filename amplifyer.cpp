@@ -94,7 +94,7 @@ int main(){
 
 	for (int i = 0; i < count; i++)
 	{
-		temp[i] = temp[i] *1.15; // amplify the audio data by multiply it by 1.15
+		temp[i] = temp[i] *1.80;// amplify the audio data by multiply it by 1.80
 
 	}
 
